@@ -2,4 +2,4 @@ Original version: Aidan Finn (http://www.aidanf.net)
 
 Aug. 09, Updates that change body_txt() method from being in O(n^3) to O(n^2): Bill Bushey, Brian Young.
 
-To contribute, fork the github repository, make your changes and push the repository back and send me a pull request. See http://help.github.com/forking/ for more details.
+To contribute, fork the github repository (http://github.com/aidanf/BTE), make your changes and push the repository back and send me a pull request. See http://help.github.com/forking/ for more details.
