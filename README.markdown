@@ -23,7 +23,8 @@ BTE basically works by finding an i and j where we maximise the number of text t
 
 Install it by copying the file to a directory in your PYTHONPATH.
 
-```import sys,BodyTextExtractor
+```
+import sys,BodyTextExtractor
 html = open(sys.argv[1]).read()
 p = BodyTextExtractor.HtmlBodyTextExtractor()
 p.feed(html)
